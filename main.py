@@ -1,4 +1,6 @@
-print("HEllo world")
-a = 2
-b =3 
-print(a+b)
+
+
+def add(a, b):
+    return a+b
+
+
